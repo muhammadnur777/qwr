@@ -1,0 +1,146 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ 
+
+.appleimg {
+    width: 14px;
+    height: 44px;
+    flex-shrink: 0;
+}
+.ulbox {
+
+background: rgba(0, 0, 0, 0.80);
+}
+.ul {
+     display: flex;
+width: 1512px;
+height: 44px;
+padding: 0px 244px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;  
+list-style: none;
+gap: 35px;
+}
+.store {
+    color: #fff;
+    width: 30px;
+height: 44px;
+flex-shrink: 0;
+}
+.imgdiv {
+    width: 1800px;
+height: 540px;
+flex-shrink: 0;
+}
+
+
+.item {
+    list-style: none;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 78px;
+}
+
+.p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.s {
+    padding: 80px;
+}
+
+.text1 {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 295.388px;
+height: 48px;
+}
+
+.qwer {
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.search {
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.s1 {
+    padding: 63px;
+}
+.p3 {
+    width: 373.2px;
+height: 90px;
+display: flex;
+gap: 30px;
+}
+
+.p4 {
+color: blue;
+
+}
+
+.bigbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.rewq {
+     width: 1800px;
+    height: 650px; 
+}
+
+
+.asdf {
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.p5 {
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    width: 795.809px;
+height: 72px;
+    }
+
+
+
+.p6 {
+display: flex;
+justify-content:center ;
+align-items: center;
+}
+
+.p7 {
+    width: 792.888px;
+height: 98px;
+display: flex;
+justify-content:center ;
+align-items: center;
+}
+
+.bbox {
+    display: inline-flex;
+height: 258px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 13px;
+flex-shrink: 0;
+}
